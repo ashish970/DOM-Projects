@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    color: black;
+    background-color: white;
+  }
+
+  .canvas{
+    margin: 100px auto 100px;
+    width: 70%;
+    text-align: center;
+  }
+
+  .button{
+    width: 100px;
+    height: 100px;
+    border: solid black 3px;
+    display: inline-block;
+  }
+
+  #grey{
+    background-color: #808080;
+  }
+
+  #purple{
+    background-color: #800080;
+  }
+
+  #red{
+    background-color: #ff0000;
+  }
+
+  #yellow{
+    background-color: #ffff00;
+  }
+
+  #green{
+    background-color: #008000;
+  }
+
+  #magenta{
+    background-color:#ff00ff;
+  }
+
+  #aquamarine{
+    background-color:#7fffd4;
+  }
+
